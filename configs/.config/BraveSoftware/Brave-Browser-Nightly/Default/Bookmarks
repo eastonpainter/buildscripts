@@ -1,0 +1,954 @@
+{
+   "checksum": "df7dc98d88ab0cb73cf2f97bd48fa98c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13272156658153420",
+               "guid": "45fce7a9-cfcd-4830-841f-e3e538a3e0e2",
+               "id": "5",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13272296927745608",
+               "guid": "755647d8-83c5-4ef1-82c4-e5b0bb86c601",
+               "id": "9",
+               "name": "SchemeColor.com: Download, create & share beautiful color combinations",
+               "type": "url",
+               "url": "https://www.schemecolor.com/"
+            }, {
+               "date_added": "13272296945460128",
+               "guid": "498d98cf-1af0-4822-ad66-8bed09dc08c8",
+               "id": "10",
+               "name": "Physics Simulations by Phisics",
+               "type": "url",
+               "url": "https://phisics.tech/?theme=2"
+            }, {
+               "date_added": "13272322972048234",
+               "guid": "7e7b93c0-b651-4719-a491-cd2cb9f2f67f",
+               "id": "13",
+               "name": "Scanning your iPhone for Pegasus, NSO Group's malware",
+               "type": "url",
+               "url": "https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/"
+            }, {
+               "date_added": "13272322981878369",
+               "guid": "4b1cdf4f-992c-48c0-b024-ec1e4937eb10",
+               "id": "14",
+               "name": "Blackjack probabilties",
+               "type": "url",
+               "url": "https://easylang.online/apps/tut_blackj.html"
+            }, {
+               "date_added": "13272346317025165",
+               "guid": "9eeadcf4-eee1-4db6-ae28-43b847ff6c42",
+               "id": "15",
+               "name": "First Custom Built Keyboard! : MechanicalKeyboards",
+               "type": "url",
+               "url": "https://old.reddit.com/r/MechanicalKeyboards/comments/ovt5o1/first_custom_built_keyboard/"
+            }, {
+               "date_added": "13272347210976900",
+               "guid": "62495f0f-dbc7-429a-a367-3e71f48edede",
+               "id": "16",
+               "name": "flag ratios",
+               "type": "url",
+               "url": "https://i.redd.it/o7dg6ts2hqe71.jpg"
+            }, {
+               "date_added": "13272425323698849",
+               "guid": "80a1c3b7-d837-4338-8562-dcc3b61e0213",
+               "id": "20",
+               "name": "GitHub - adi1090x/polybar-themes: A huge collection of polybar themes with different styles, colors and variants.",
+               "type": "url",
+               "url": "https://github.com/adi1090x/polybar-themes"
+            }, {
+               "date_added": "13272425390513973",
+               "guid": "91b41460-8f54-42c3-a2e0-484a9de18db3",
+               "id": "21",
+               "name": "[i3wm] The Great Ramen Wave. : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/owef2b/i3wm_the_great_ramen_wave/"
+            }, {
+               "date_added": "13272425442248776",
+               "guid": "5bd7c42d-c956-40b3-b859-321e14765a69",
+               "id": "22",
+               "name": "Learney Prototype",
+               "type": "url",
+               "url": "https://app.learney.me/"
+            }, {
+               "date_added": "13272430230361103",
+               "guid": "c5b56d90-9074-4a98-a0b2-0f99edc08088",
+               "id": "24",
+               "name": "hastebin",
+               "type": "url",
+               "url": "https://hastebin.com/"
+            }, {
+               "date_added": "13272430232477550",
+               "guid": "b754c47a-cb68-42f3-a9fe-9dd6c4008599",
+               "id": "25",
+               "name": "Ghostbin",
+               "type": "url",
+               "url": "https://ghostbin.com/"
+            }, {
+               "date_added": "13272433475592437",
+               "guid": "e0b0f74b-5c71-48e3-8e3c-4bcdf9d53f3f",
+               "id": "27",
+               "name": "Ghostbin",
+               "type": "url",
+               "url": "https://ghostbin.com/paste/iH9v6"
+            }, {
+               "date_added": "13272435860732401",
+               "guid": "6ab57bc9-c155-43fd-b789-ec1c395f443e",
+               "id": "28",
+               "name": "LOCUS | Affordable, High-Performance Gaming Equipment. – locus.gg",
+               "type": "url",
+               "url": "https://locus.gg/"
+            }, {
+               "date_added": "13272450148741956",
+               "guid": "124bb81a-5b1b-4369-8d80-625963dcd690",
+               "id": "29",
+               "name": "GitHub - addy-dclxvi/dotfiles: My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox",
+               "type": "url",
+               "url": "https://github.com/addy-dclxvi/dotfiles"
+            }, {
+               "date_added": "13272450210081480",
+               "guid": "2314f973-6e27-4eb8-b29a-aeb76f82a5c6",
+               "id": "30",
+               "name": "Several Custom Bitmap Fonts - Addy's Blog",
+               "type": "url",
+               "url": "https://addy-dclxvi.github.io/post/bitmap-fonts/"
+            }, {
+               "date_added": "13272503287840115",
+               "guid": "d5a00f37-5cac-4edb-a744-053ea743c0ec",
+               "id": "32",
+               "name": "Strange are ways of the world / ArseniXC [1920×1080] : wallpapers",
+               "type": "url",
+               "url": "https://old.reddit.com/r/wallpapers/comments/ox27ud/strange_are_ways_of_the_world_arsenixc_19201080/"
+            }, {
+               "date_added": "13272508340015298",
+               "guid": "44a3081c-ed9a-4047-a5fb-e05bbb1a3e4f",
+               "id": "34",
+               "name": "GitHub - Axarva/dotfiles-2.0: XMonad™️. Widgets go brr.",
+               "type": "url",
+               "url": "https://github.com/Axarva/dotfiles-2.0"
+            }, {
+               "date_added": "13272508985763103",
+               "guid": "d63dd59d-31c2-4b59-89bb-eb441cb8d0c2",
+               "id": "35",
+               "name": "[OC] I wanted a small bitmap font with Powerline glyphs and all that... so I made one! : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/f4cb7f/oc_i_wanted_a_small_bitmap_font_with_powerline/"
+            }, {
+               "date_added": "13272509214443345",
+               "guid": "9b39b651-2fd5-46ee-9e2f-59e0831c5bc2",
+               "id": "36",
+               "name": "Fun On The Terminal Part 2 - View ASCII Art And ANSI Art On The Terminal",
+               "type": "url",
+               "url": "http://mewbies.com/acute_terminal_fun_02_view_ascii_art_ansi_art_and_movies_on_the_terminal.htm"
+            }, {
+               "date_added": "13272509423439904",
+               "guid": "89f66e92-6537-4a71-9a96-17cd4d501941",
+               "id": "38",
+               "name": "[desktop] Finalised a complete student workflow on a three monitor setup with minimal mouse usage. : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/9zhbps/desktop_finalised_a_complete_student_workflow_on/"
+            }, {
+               "date_added": "13272509581754181",
+               "guid": "8fc676b9-194a-490e-bb80-5a540dd99342",
+               "id": "39",
+               "name": "GitHub - insanum/gcalcli: Google Calendar Command Line Interface",
+               "type": "url",
+               "url": "https://github.com/insanum/gcalcli"
+            }, {
+               "date_added": "13272509583426384",
+               "guid": "2104e932-3bb4-4762-81dd-a6d22f37d753",
+               "id": "40",
+               "name": "GitHub - mps-youtube/mps-youtube: Terminal based YouTube player and downloader",
+               "type": "url",
+               "url": "https://github.com/mps-youtube/mps-youtube"
+            }, {
+               "date_added": "13272509612184379",
+               "guid": "6abc83dd-fe44-45d5-a634-d8e1e9e88685",
+               "id": "41",
+               "name": "mutt-wizard",
+               "type": "url",
+               "url": "https://muttwizard.com/"
+            }, {
+               "date_added": "13272578962910247",
+               "guid": "2ae05217-1650-46eb-b3b2-fe8cf43ae169",
+               "id": "43",
+               "name": "[i3-gaps] First actually usable rice that's not all blur and blown put colors. Gruvbox ftw : UsabilityPorn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/UsabilityPorn/comments/oxb3pu/i3gaps_first_actually_usable_rice_thats_not_all/"
+            }, {
+               "date_added": "13272579527973262",
+               "guid": "5b320c74-25cf-4931-8167-7be478c9bb1d",
+               "id": "44",
+               "name": "[Herbstluftwm] Calm & Minimal : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/oxrvyb/herbstluftwm_calm_minimal/"
+            }, {
+               "date_added": "13272695507408583",
+               "guid": "a06954a9-6d6e-468f-b6c4-224ef9fbf909",
+               "id": "50",
+               "name": "Some very nice artistic wallpapers : wallpapers",
+               "type": "url",
+               "url": "https://old.reddit.com/r/wallpapers/comments/oyciaf/some_very_nice_artistic_wallpapers/"
+            }, {
+               "date_added": "13272695838241419",
+               "guid": "424348f0-eaa9-4138-acd6-99ccf643274e",
+               "id": "51",
+               "name": "Multiple ISO’s onto one usb stick : linuxquestions",
+               "type": "url",
+               "url": "https://old.reddit.com/r/linuxquestions/comments/oyqqld/multiple_isos_onto_one_usb_stick/"
+            }, {
+               "date_added": "13272702780202924",
+               "guid": "e44456ee-6dac-4000-9a05-9a640011d372",
+               "id": "52",
+               "name": "https://zzanehip.github.io/Dashboard/",
+               "type": "url",
+               "url": "https://zzanehip.github.io/Dashboard/"
+            }, {
+               "date_added": "13272730419448440",
+               "guid": "e1635230-5c00-405a-8601-1f3073b0fb21",
+               "id": "53",
+               "name": "Coding Cat | Nyan Cat's cousin who is listening to lo-fi",
+               "type": "url",
+               "url": "https://hostrider.com/index.html"
+            }, {
+               "date_added": "13272793289140429",
+               "guid": "39c7e006-2534-4e7e-9f1d-b2902136831f",
+               "id": "55",
+               "name": "GitHub - marko-cerovac/material.nvim: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
+               "type": "url",
+               "url": "https://github.com/marko-cerovac/material.nvim"
+            }, {
+               "date_added": "13272793441509339",
+               "guid": "a15ecdfc-8251-4421-b315-53decdf41546",
+               "id": "56",
+               "name": "GitHub - hlissner/emacs-doom-themes: An opinionated pack of modern color-themes",
+               "type": "url",
+               "url": "https://github.com/hlissner/emacs-doom-themes"
+            }, {
+               "date_added": "13272866835714672",
+               "guid": "b5038a29-1cdd-4df4-ac8c-6ec398fc9494",
+               "id": "58",
+               "name": "[openbox] well, openbox... yeah! : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/ozyxp1/openbox_well_openbox_yeah/"
+            }, {
+               "date_added": "13272885503659686",
+               "guid": "676c6171-9e4f-4121-a7dd-5158df5eceab",
+               "id": "59",
+               "name": "WriteAlong - Let's write stories together!",
+               "type": "url",
+               "url": "https://www.writealong.io/"
+            }, {
+               "date_added": "13272885784297837",
+               "guid": "45fa354d-a270-4307-8cdb-6169c9e82830",
+               "id": "60",
+               "name": "Why CAPTCHA Pictures Are So Unbearably Depressing | by Clive Thompson | Aug, 2021 | Medium",
+               "type": "url",
+               "url": "https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a"
+            }, {
+               "date_added": "13272886101015672",
+               "guid": "05478743-3bba-4166-9486-1e5fb1016f03",
+               "id": "61",
+               "name": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+               "type": "url",
+               "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html"
+            }, {
+               "date_added": "13272886462256739",
+               "guid": "4db1fe84-f056-4c62-9ebc-abb6914b4cc3",
+               "id": "62",
+               "name": "Calculist",
+               "type": "url",
+               "url": "https://calculist.io/"
+            }, {
+               "date_added": "13272886467695385",
+               "guid": "f97ffcad-a1c7-4a0b-87d2-63d0d055e373",
+               "id": "63",
+               "name": "Lecture 1",
+               "type": "url",
+               "url": "https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm"
+            }, {
+               "date_added": "13272917437069897",
+               "guid": "007631f3-6fd1-46c1-ad81-372c54f03293",
+               "id": "65",
+               "name": "The ShuffleFluff - My Playground : battlestations",
+               "type": "url",
+               "url": "https://old.reddit.com/r/battlestations/comments/p0dbel/the_shufflefluff_my_playground/"
+            }, {
+               "date_added": "13273022093553411",
+               "guid": "164b2a33-ee41-434f-b853-3ed63fd9f186",
+               "id": "68",
+               "name": "Jolyon & Katya Ralph - The Rocks and Minerals of Minecraft",
+               "type": "url",
+               "url": "https://www.mindat.org/a/minecraft"
+            }, {
+               "date_added": "13273059785407056",
+               "guid": "42f2bf42-a914-4ce2-ab07-a5f782c6f4c6",
+               "id": "69",
+               "name": "Be Happy :) : teenagers",
+               "type": "url",
+               "url": "https://old.reddit.com/r/teenagers/comments/p1g6eg/be_happy/"
+            }, {
+               "date_added": "13273060116153089",
+               "guid": "14c7af9e-eb41-4004-9a1b-9eb91f44a5b9",
+               "id": "70",
+               "name": "GitHub - traccar/traccar-sms-gateway: Traccar SMS Gateway for Android",
+               "type": "url",
+               "url": "https://github.com/traccar/traccar-sms-gateway"
+            }, {
+               "date_added": "13273060350442089",
+               "guid": "aedcad6b-c8a0-4d6b-8ae9-a7753b6c72f6",
+               "id": "71",
+               "name": "20-Chau-Ko-Tang.pdf",
+               "type": "url",
+               "url": "https://courses.csail.mit.edu/6.857/2019/project/20-Chau-Ko-Tang.pdf"
+            }, {
+               "date_added": "13273077838073749",
+               "guid": "21a4c6e8-93b9-4a4d-a88c-493f98210dd7",
+               "id": "72",
+               "name": "https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/",
+               "type": "url",
+               "url": "https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/"
+            }, {
+               "date_added": "13273278189071700",
+               "guid": "961c5f44-c49b-443f-a26d-99b189de5fb4",
+               "id": "74",
+               "name": "Rule ofc : 196",
+               "type": "url",
+               "url": "https://old.reddit.com/r/196/comments/p2to5i/rule_ofc/"
+            }, {
+               "date_added": "13273518053576851",
+               "guid": "5881aff9-8d51-4fef-bb29-6e2c85941979",
+               "id": "76",
+               "name": "Font Generator - Copy Paste (Fancy Text) - Toulr.com",
+               "type": "url",
+               "url": "https://www.toulr.com/other-tools/font-generator"
+            }, {
+               "date_added": "13273518067608841",
+               "guid": "478bb233-8a25-4586-b37c-a51bcb3c15ae",
+               "id": "77",
+               "name": "[BSPWM] Ikigai : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/p4nucu/bspwm_ikigai/"
+            }, {
+               "date_added": "13273609476133866",
+               "guid": "a4172bc8-a0e1-4446-81b6-e06eda6a3553",
+               "id": "79",
+               "name": "Widelands.org",
+               "type": "url",
+               "url": "https://www.widelands.org/"
+            }, {
+               "date_added": "13272615872857541",
+               "guid": "f12045ba-80e2-4dcd-bedb-39b11d416b08",
+               "id": "46",
+               "name": "WeeChat Guide",
+               "type": "url",
+               "url": "https://weechat.org/files/doc/stable/weechat_quickstart.en.html"
+            }, {
+               "date_added": "13273685537689343",
+               "guid": "e66a1c1c-0bb0-4312-877c-6bbf50f6937c",
+               "id": "84",
+               "name": "GitHub - jpochyla/psst: Fast and multi-platform Spotify client with native GUI",
+               "type": "url",
+               "url": "https://github.com/jpochyla/psst"
+            }, {
+               "date_added": "13273785685841676",
+               "guid": "eb731602-740b-4ac0-abbc-578f72e92b0b",
+               "id": "89",
+               "name": "Black and white : MechanicalKeyboards",
+               "type": "url",
+               "url": "https://old.reddit.com/r/MechanicalKeyboards/comments/p6lnik/black_and_white/"
+            }, {
+               "date_added": "13273786188631169",
+               "guid": "ef544a85-dd07-462d-996e-8a91cdf76409",
+               "id": "90",
+               "name": "GitHub - nicolargo/glances: Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
+               "type": "url",
+               "url": "https://github.com/nicolargo/glances"
+            }, {
+               "date_added": "13273805969397735",
+               "guid": "7a5a4865-f2f4-4e7c-89ec-f1d909c3eed0",
+               "id": "91",
+               "name": "this keyboard should not sound this good - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sVInBOLSqoM"
+            }, {
+               "date_added": "13273960144047813",
+               "guid": "9ff5c967-5d7a-4522-9e25-33e67e8fd901",
+               "id": "93",
+               "name": "socialisms : coolguides",
+               "type": "url",
+               "url": "https://old.reddit.com/r/coolguides/comments/p83ptb/socialisms/"
+            }, {
+               "date_added": "13274374159177499",
+               "guid": "bf3b37f1-b478-41d9-a617-2bc0b0500bfc",
+               "id": "97",
+               "name": "FLOSS mobile OS",
+               "type": "url",
+               "url": "https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/"
+            }, {
+               "date_added": "13274374207308141",
+               "guid": "507b2706-a4dd-46cb-ad43-9bcc64f5ead9",
+               "id": "98",
+               "name": "HyperPhysics Concepts",
+               "type": "url",
+               "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html#ahph1"
+            }, {
+               "date_added": "13274374964935770",
+               "guid": "93b429f0-96b9-4a4b-9db8-1344d5f93ca6",
+               "id": "99",
+               "name": "An Introduction to JQ",
+               "type": "url",
+               "url": "https://earthly.dev/blog/jq-select/"
+            }, {
+               "date_added": "13274461914885667",
+               "guid": "316dde20-03b0-4918-9902-540381bf5a3e",
+               "id": "101",
+               "name": "Animes to watch | Scenes from movies that were inspired by anime : movies",
+               "type": "url",
+               "url": "https://old.reddit.com/r/movies/comments/pbykbr/scenes_from_movies_that_were_inspired_by_anime/"
+            }, {
+               "date_added": "13274467152561293",
+               "guid": "be1228c4-defc-4a54-ad87-e8d1d57386a3",
+               "id": "102",
+               "name": "[OC] nordic-wallpapers: a repo for collecting nordic wallpapers : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pbwl8j/oc_nordicwallpapers_a_repo_for_collecting_nordic/"
+            }, {
+               "date_added": "13274542220585173",
+               "guid": "09c56477-0760-4fdc-9b47-316ab1a6b126",
+               "id": "104",
+               "name": "",
+               "type": "url",
+               "url": "https://old.reddit.com/r/TikTokCringe/comments/pc9eky/gamer_bros_are_too_emotional_for_cod/"
+            }, {
+               "date_added": "13274649738168946",
+               "guid": "1603f012-7b57-4d96-ade3-d522ea13ce31",
+               "id": "106",
+               "name": "Open Source Alternatives",
+               "type": "url",
+               "url": "https://www.btw.so/open-source-alternatives"
+            }, {
+               "date_added": "13274749690298969",
+               "guid": "a20e5eeb-1491-46f1-ba4b-ab483f742db7",
+               "id": "108",
+               "name": "[awesome] I think this turned out pretty well : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pdt03d/awesome_i_think_this_turned_out_pretty_well/"
+            }, {
+               "date_added": "13274750215899878",
+               "guid": "efa953d6-cdb5-4fb2-8d31-534814b6ee87",
+               "id": "109",
+               "name": "[Gnome] Gruvbox is nice. : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pdpaxe/gnome_gruvbox_is_nice/"
+            }, {
+               "date_added": "13274750253375708",
+               "guid": "7827344b-8378-4171-94d3-d4a2176729ee",
+               "id": "110",
+               "name": "black and white anime android",
+               "type": "url",
+               "url": "https://imgur.com/Yz3LYbQ"
+            }, {
+               "date_added": "13274751147411129",
+               "guid": "d4c50616-c438-4731-ae62-6cc979f9f4db",
+               "id": "111",
+               "name": "[dwm] Tag preview and monocle tabbed mode with window decorations : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pdqit9/dwm_tag_preview_and_monocle_tabbed_mode_with/#"
+            }, {
+               "date_added": "13274806023922673",
+               "guid": "acc92a5b-9239-40c1-9d4d-9b33745213c1",
+               "id": "113",
+               "name": "GitHub - rohit-px2/nvui: A modern frontend for Neovim.",
+               "type": "url",
+               "url": "https://github.com/rohit-px2/nvui"
+            }, {
+               "date_added": "13274810461131116",
+               "guid": "87d0f901-a8a5-4073-941d-83df5be5a73a",
+               "id": "114",
+               "name": "“If software engineering is in demand, why is it so hard to get a software engineering job?” | by Curt Corginia | Aug, 2021 | Better Programming",
+               "type": "url",
+               "url": "https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463"
+            }, {
+               "date_added": "13274823025659889",
+               "guid": "e025e3b8-9dd7-4f35-9467-8bcaf7a81886",
+               "id": "115",
+               "name": "Knife 101 : coolguides",
+               "type": "url",
+               "url": "https://old.reddit.com/r/coolguides/comments/peleqm/knife_101/"
+            }, {
+               "date_added": "13274900313051093",
+               "guid": "ce84fb1c-f85f-4402-8ae0-a8a75762ebbd",
+               "id": "117",
+               "name": "Free Multi-color Illustrations for Commercial Use | Scale",
+               "type": "url",
+               "url": "https://2.flexiple.com/scale/multi-color-illustrations"
+            }, {
+               "date_added": "13275059223800501",
+               "guid": "80d3375f-5fe5-4d0f-add8-72a8fc7da265",
+               "id": "119",
+               "name": "AtlasObscura",
+               "type": "url",
+               "url": "https://www.atlasobscura.com/"
+            }, {
+               "date_added": "13275060182796787",
+               "guid": "87ff5d61-8884-41f5-8bfd-0900a15b6ea6",
+               "id": "120",
+               "name": "Especially useful for artists! : coolguides",
+               "type": "url",
+               "url": "https://old.reddit.com/r/coolguides/comments/pg8pky/especially_useful_for_artists/"
+            }, {
+               "date_added": "13275064221489035",
+               "guid": "34f7a3ea-a25d-4ac7-bbbf-a3dcc9f95e14",
+               "id": "121",
+               "name": "Philosophy — Susan Rigetti",
+               "type": "url",
+               "url": "https://www.susanrigetti.com/philosophy"
+            }, {
+               "date_added": "13275440786730211",
+               "guid": "955dec0f-6c45-416e-97e0-41403c52d12a",
+               "id": "123",
+               "name": "Minus",
+               "type": "url",
+               "url": "https://minus.social/"
+            }, {
+               "date_added": "13275758837594251",
+               "guid": "54e6aab1-c056-43f8-8a49-3f6dd16227a5",
+               "id": "126",
+               "name": "Falling Fruit | free fruit trees",
+               "type": "url",
+               "url": "https://fallingfruit.org/"
+            }, {
+               "date_added": "13275759341381359",
+               "guid": "93b0718d-a07e-4ba6-a918-9740afe9582d",
+               "id": "127",
+               "name": "lottery copypasta | temroT comments on What's the happiest 5-word sentence you could hear?",
+               "type": "url",
+               "url": "https://www.reddit.com/r/AskReddit/comments/24vo34/whats_the_happiest_5word_sentence_you_could_hear/chb38xf/"
+            }, {
+               "date_added": "13275808934772865",
+               "guid": "6d2ed476-c0f2-4f9b-8b56-4bb90bf1720f",
+               "id": "129",
+               "name": "Windy: Wind map & weather forecast",
+               "type": "url",
+               "url": "https://www.windy.com/?40.712,-74.007,5"
+            }, {
+               "date_added": "13275808946537850",
+               "guid": "6cf8568d-b501-4c9f-b8da-4c28d3b1eafc",
+               "id": "130",
+               "name": "weather | Windy: Wind map & weather forecast",
+               "type": "url",
+               "url": "https://www.windy.com/?26.902,-84.880,5"
+            }, {
+               "date_added": "13275808985515550",
+               "guid": "21800cb6-d521-4ba8-851b-0d0eda190ac6",
+               "id": "131",
+               "name": "Open-source headless commerce engine",
+               "type": "url",
+               "url": "https://www.medusa-commerce.com/"
+            }, {
+               "date_added": "13275809275303597",
+               "guid": "ab625fee-424f-483c-9e89-ff7b2c798bc8",
+               "id": "132",
+               "name": "Webcam out of checkboxes",
+               "type": "url",
+               "url": "https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/"
+            }, {
+               "date_added": "13275889767678957",
+               "guid": "06eea017-afc4-4aca-9149-0cb3119de527",
+               "id": "134",
+               "name": "My Room in 3D",
+               "type": "url",
+               "url": "https://my-room-in-3d.vercel.app/"
+            }, {
+               "date_added": "13275963496823249",
+               "guid": "8af41365-5a3d-4833-abc5-8239425757bb",
+               "id": "139",
+               "name": "What is your favorite alias that you made? : commandline",
+               "type": "url",
+               "url": "https://old.reddit.com/r/commandline/comments/pmtnwj/what_is_your_favorite_alias_that_you_made/"
+            }, {
+               "date_added": "13275963500976785",
+               "guid": "acf5be83-8028-4896-be57-5d626b4b8024",
+               "id": "140",
+               "name": "[bspwm] reminds me of pierogi : betterunixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/betterunixporn/comments/pmyn7x/bspwm_reminds_me_of_pierogi/"
+            }, {
+               "date_added": "13275963555843649",
+               "guid": "68cd596b-03d6-4f11-bc04-3bc76d271f0f",
+               "id": "141",
+               "name": "[bspwm] Rosé Pine : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pmteau/bspwm_ros%C3%A9_pine/"
+            }, {
+               "date_added": "13276276058968079",
+               "guid": "17ec6ce8-77c6-49b2-8f54-a625810adad6",
+               "id": "143",
+               "name": "Marginalia Search",
+               "type": "url",
+               "url": "https://search.marginalia.nu/"
+            }, {
+               "date_added": "13276289578702533",
+               "guid": "67c69e15-5dbe-4694-875e-be113aaf4b11",
+               "id": "144",
+               "name": "[i3-gaps] Wallpaper changes according to time of day : UsabilityPorn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/UsabilityPorn/comments/ppddmb/i3gaps_wallpaper_changes_according_to_time_of_day/"
+            }, {
+               "date_added": "13276356077975161",
+               "guid": "e4295b85-e5c9-4ac1-af4c-e6f64479f404",
+               "id": "146",
+               "name": "Shipping Company Guide",
+               "type": "url",
+               "url": "https://old.reddit.com/r/coolguides/comments/pprdtp/shipping_company_guide/"
+            }, {
+               "date_added": "13276357028526729",
+               "guid": "6ed87618-5024-44a5-b6e4-ca04ee6e73d2",
+               "id": "147",
+               "name": "Playable Quotes for Game Boy",
+               "type": "url",
+               "url": "https://tenmile.quote.games/"
+            }, {
+               "date_added": "13276393074830962",
+               "guid": "aca60f63-5eab-44ad-bc99-507dcd591f80",
+               "id": "149",
+               "name": "Building apps in minutes, not months",
+               "type": "url",
+               "url": "https://alexanderobenauer.com/labnotes/001/"
+            }, {
+               "date_added": "13276412380327927",
+               "guid": "0ee90942-5e64-44bb-ba62-a95e6bf65595",
+               "id": "150",
+               "name": "ledger, a powerful command-line accounting system",
+               "type": "url",
+               "url": "https://www.ledger-cli.org/"
+            }, {
+               "date_added": "13276421960338957",
+               "guid": "21171a9b-ea33-40ec-94a8-db6567f81059",
+               "id": "151",
+               "name": "A small but beautiful collection of free CC0 photos, chosen for their aesthetic quality. : InternetIsBeautiful",
+               "type": "url",
+               "url": "https://old.reddit.com/r/InternetIsBeautiful/comments/ppzcav/a_small_but_beautiful_collection_of_free_cc0/"
+            }, {
+               "date_added": "13276493563377423",
+               "guid": "741f8076-5aae-4bf7-94f8-8304566b3202",
+               "id": "154",
+               "name": "[river] back in the grinder : unixporn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/unixporn/comments/pqn7cw/river_back_in_the_grinder/"
+            }, {
+               "date_added": "13276493875613639",
+               "guid": "d0a0b82b-d63b-47bc-a056-94b7685194ed",
+               "id": "155",
+               "name": "How To Rapidly Improve At Any Programming Language",
+               "type": "url",
+               "url": "https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/"
+            }, {
+               "date_added": "13276493951393533",
+               "guid": "bb518f21-a4eb-4b9c-bc64-51a1a490a3ae",
+               "id": "156",
+               "name": "https://girliemac.com/blog/2017/12/26/git-purr/",
+               "type": "url",
+               "url": "https://girliemac.com/blog/2017/12/26/git-purr/"
+            }, {
+               "date_added": "13276493963408665",
+               "guid": "2af4dbfa-aeb6-49cf-b3ad-7f463924941e",
+               "id": "157",
+               "name": "TI-99/4A Game Shelf Assembly/c99/Forth Games",
+               "type": "url",
+               "url": "http://tigameshelf.net/asm.htm"
+            }, {
+               "date_added": "13276493980911867",
+               "guid": "6f05e3b4-af9c-4da7-a14e-b0019e46fe08",
+               "id": "158",
+               "name": "NDP Software :: Git Cheatsheet",
+               "type": "url",
+               "url": "http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;"
+            }, {
+               "date_added": "13276500078911253",
+               "guid": "9bea4adc-4bd4-4526-9fb7-44a9791ed8d5",
+               "id": "159",
+               "name": "What to do with lots of ram? : archlinux",
+               "type": "url",
+               "url": "https://old.reddit.com/r/archlinux/comments/pqlpdf/what_to_do_with_lots_of_ram/"
+            }, {
+               "date_added": "13276549825643141",
+               "guid": "6f6534a0-f93f-41da-aff5-8d566e7e4ed9",
+               "id": "164",
+               "name": "EuroBSD 2021",
+               "type": "url",
+               "url": "https://people.freebsd.org/~gallatin/talks/euro2021.pdf"
+            }, {
+               "date_added": "13276559189038897",
+               "guid": "629d71e4-07ae-4053-b7c8-eee17f90cfae",
+               "id": "165",
+               "name": "You feel like shit.",
+               "type": "url",
+               "url": "https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html"
+            }, {
+               "date_added": "13276648359924301",
+               "guid": "4ce52b73-e9e4-4719-937b-ab7c97e42c15",
+               "id": "167",
+               "name": "Which TV character influenced your sense of humor the most? : AskReddit",
+               "type": "url",
+               "url": "https://old.reddit.com/r/AskReddit/comments/prs3kv/which_tv_character_influenced_your_sense_of_humor/?sort=top"
+            }, {
+               "date_added": "13276801009950368",
+               "guid": "6bb0ce34-ab84-42fe-a606-bca78a75a8f0",
+               "id": "169",
+               "name": "heights in lotr",
+               "type": "url",
+               "url": "https://i.redd.it/c8zawkcq01p71.jpg"
+            }, {
+               "date_added": "13276817323548772",
+               "guid": "94d36a48-c3e0-41a2-ab40-8029cb55492c",
+               "id": "171",
+               "name": "[dwm] I love this thing! : UsabilityPorn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/UsabilityPorn/comments/pt02cy/dwm_i_love_this_thing/"
+            }, {
+               "date_added": "13276822221717035",
+               "guid": "37b02f3f-687b-47c7-8def-93044e20427b",
+               "id": "172",
+               "name": "Jargon Generator!",
+               "type": "url",
+               "url": "http://shinytoylabs.com/jargon/"
+            }, {
+               "date_added": "13276987629138704",
+               "guid": "82c53c8e-8673-4002-828c-e4d5fb2c14bf",
+               "id": "174",
+               "name": "The SQL Murder Mystery",
+               "type": "url",
+               "url": "https://mystery.knightlab.com/"
+            }, {
+               "date_added": "13277084653509322",
+               "guid": "96ef5df2-d249-4888-92ad-668f4627a09f",
+               "id": "176",
+               "name": "Super Metroid - FAQ/Speed Guide - Super Nintendo - By nemes1s - GameFAQs",
+               "type": "url",
+               "url": "https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114"
+            }, {
+               "date_added": "13277340326650973",
+               "guid": "d497b078-2679-45f4-81ba-a48870ce2faa",
+               "id": "180",
+               "name": "The most complete record of every living thing to leave Earth : InternetIsBeautiful",
+               "type": "url",
+               "url": "https://old.reddit.com/r/InternetIsBeautiful/comments/px58ai/the_most_complete_record_of_every_living_thing_to/"
+            }, {
+               "date_added": "13277356079278470",
+               "guid": "1c044979-5f63-4860-9429-c969552210bc",
+               "id": "181",
+               "name": "Taking notes [sway] : UsabilityPorn",
+               "type": "url",
+               "url": "https://old.reddit.com/r/UsabilityPorn/comments/pxfo2q/taking_notes_sway/"
+            }, {
+               "date_added": "13277555384649442",
+               "guid": "aa985285-88e1-48f4-8ea8-354fb27c8e3c",
+               "id": "183",
+               "name": "[2560x1600] October Wallpapers (and BONUS Spooky Season wallpapers) : wallpapers",
+               "type": "url",
+               "url": "https://old.reddit.com/r/wallpapers/comments/pyzy6a/2560x1600_october_wallpapers_and_bonus_spooky/"
+            }, {
+               "date_added": "13277693942346359",
+               "guid": "56f5a1ee-2095-4123-9b08-ba809f17971c",
+               "id": "186",
+               "name": "GitHub - gollum/gollum: A simple, Git-powered wiki with a sweet API and local frontend.",
+               "type": "url",
+               "url": "https://github.com/gollum/gollum"
+            }, {
+               "date_added": "13277694083040366",
+               "guid": "375a0681-800b-4b86-aa46-d56837bbcd33",
+               "id": "187",
+               "name": "Wayforward Machine • Visit the future of the internet",
+               "type": "url",
+               "url": "https://wayforward.archive.org/"
+            }, {
+               "date_added": "13278089528646002",
+               "guid": "f339fea7-8976-4709-bade-3441efb6ca5e",
+               "id": "189",
+               "name": "WEBSITES What useful unknown website do you wish more people knew about? : AskReddit",
+               "type": "url",
+               "url": "https://old.reddit.com/r/AskReddit/comments/q2viki/what_useful_unknown_website_do_you_wish_more/?sort=top"
+            }, {
+               "date_added": "13278089614684549",
+               "guid": "c1b65161-eef9-4884-a52b-fd6d2c1797e6",
+               "id": "191",
+               "name": "Frontpage -- Terms of Service; Didn't Read",
+               "type": "url",
+               "url": "https://tosdr.org/"
+            }, {
+               "date_added": "13278089652433307",
+               "guid": "01bfb353-87a9-4156-a878-1a30570f2ba8",
+               "id": "192",
+               "name": "12ft Ladder",
+               "type": "url",
+               "url": "https://12ft.io/"
+            }, {
+               "date_added": "13278089685301673",
+               "guid": "2714d89b-189c-4fa2-98be-f469f6a248b3",
+               "id": "193",
+               "name": "Every Noise at Once",
+               "type": "url",
+               "url": "https://everynoise.com/"
+            }, {
+               "date_added": "13278089828001907",
+               "guid": "a3aa13e8-90d0-4f6e-a08f-b9ec77812585",
+               "id": "194",
+               "name": "E-mails from an Asshole",
+               "type": "url",
+               "url": "https://dontevenreply.com/"
+            }, {
+               "date_added": "13278089830353208",
+               "guid": "5d88a7c6-845f-4812-b43a-5e24f7fec218",
+               "id": "195",
+               "name": "This to That (Glue Advice)",
+               "type": "url",
+               "url": "http://www.thistothat.com/"
+            }, {
+               "date_added": "13278119369208287",
+               "guid": "3857e299-5f40-4ff6-acc4-5531205fce15",
+               "id": "197",
+               "name": "Twitch Earnings Leaderboard",
+               "type": "url",
+               "url": "https://web.archive.org/web/20211007001100/https://www.twitchearnings.com/"
+            }, {
+               "date_added": "13278379261893507",
+               "guid": "129a7ed8-b8cb-48fe-b6a9-dce10fb2ccfd",
+               "id": "199",
+               "name": "Files · master · slackermedia / bashcrawl · GitLab",
+               "type": "url",
+               "url": "https://gitlab.com/slackermedia/bashcrawl/-/tree/master/"
+            } ],
+            "date_added": "13272160150213656",
+            "date_modified": "13278390975526330",
+            "guid": "9447c22c-7538-4e74-a77d-2e3be87bb459",
+            "id": "7",
+            "name": "Root",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272618200861969",
+               "guid": "1ae6e36b-784e-4467-a946-568839f9c8f8",
+               "id": "47",
+               "name": "ProtonMail",
+               "type": "url",
+               "url": "https://mail.protonmail.com/u/0/inbox"
+            }, {
+               "date_added": "13272360206169177",
+               "guid": "eb3c6d48-5adb-49f8-bfda-0121e0f2ffca",
+               "id": "18",
+               "name": "ncmpcpp cheat sheet",
+               "type": "url",
+               "url": "https://pkgbuild.com/~jelle/ncmpcpp/"
+            }, {
+               "date_added": "13276474675366896",
+               "guid": "1a881d3b-6569-48ed-a448-6880d2cf690c",
+               "id": "153",
+               "name": "Jerma Joke Tracker",
+               "type": "url",
+               "url": "https://joke.jerma.io/"
+            }, {
+               "date_added": "13272630095780643",
+               "guid": "b1a001cf-8fff-4ecd-af28-b58521bad235",
+               "id": "48",
+               "name": "QDB",
+               "type": "url",
+               "url": "http://bash.org/?latest"
+            } ],
+            "date_added": "13273682474886977",
+            "date_modified": "13277340326650973",
+            "guid": "e99e4afd-7fa3-4e03-a954-abd8b6b583bd",
+            "id": "81",
+            "name": "Home",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273682506099837",
+               "guid": "665db90d-3266-4824-b418-94ffb52c6d0d",
+               "id": "83",
+               "name": "W. History AP",
+               "type": "url",
+               "url": "https://conroeisd.instructure.com/courses/230326/pages/gohs-ap-wh-home-page-unit-1"
+            }, {
+               "date_added": "13273769466301362",
+               "guid": "13957f3c-47ce-4f73-8108-c4f1e09a150e",
+               "id": "86",
+               "name": "WeTeachCS",
+               "type": "url",
+               "url": "https://extendutexas.instructure.com/courses/344"
+            } ],
+            "date_added": "13273682500973511",
+            "date_modified": "13273785679955757",
+            "guid": "9c77f38f-4e98-4b1e-86eb-7bc84d6e30f8",
+            "id": "82",
+            "name": "GOHS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13277102089873099",
+               "guid": "4cc2f1e6-4308-4bb4-82bb-1b88a12ed836",
+               "id": "177",
+               "name": "Lesson 9/26",
+               "type": "url",
+               "url": "http://txti.es/3e6br"
+            }, {
+               "date_added": "13276533071778853",
+               "guid": "ddd1c32a-5592-4150-9954-0cb93a3e2660",
+               "id": "162",
+               "name": "Ward Broadcast Notes - eastonpainter@gmail.com - Gmail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/#search/pur/FMfcgzGkZtBZHkhvKkBLvshRdMgGjfsr?projector=1&messagePartId=0.1"
+            }, {
+               "date_added": "13275928612738936",
+               "guid": "9b40af33-1fd8-419b-96ab-3c927080a2ac",
+               "id": "137",
+               "name": "H.265/H.264 Encoder",
+               "type": "url",
+               "url": "http://192.168.108.10/indexE.html"
+            }, {
+               "date_added": "13276532745178384",
+               "guid": "863626e0-4d81-4b94-9a16-5378bfd087c8",
+               "id": "161",
+               "name": "Church Webcast",
+               "type": "url",
+               "url": "http://mywebcast.churchofjesuschrist.org/Events/springtexasstake"
+            } ],
+            "date_added": "13277102231029848",
+            "date_modified": "13277102238669231",
+            "guid": "fc78ea22-cd03-4b16-8775-70a102d6b70a",
+            "id": "178",
+            "name": "Church",
+            "type": "folder"
+         } ],
+         "date_added": "13272155818067195",
+         "date_modified": "13277102231032664",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13272155818067200",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13272155818067211",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

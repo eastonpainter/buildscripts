@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/easton/.config/neofetch'
+let g:netrw_dirhist_6='/home/easton/notes'
+let g:netrw_dirhist_5='/home/easton/.config/ncmpcpp'
+let g:netrw_dirhist_4='/home/easton/.config/herbstluftwm'
+let g:netrw_dirhist_3='/home/easton/.vim/colors'
+let g:netrw_dirhist_2='/home/easton/notes'
+let g:netrw_dirhist_1='/etc/X11/xorg.conf.d'

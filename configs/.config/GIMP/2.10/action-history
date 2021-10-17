@@ -1,0 +1,12 @@
+# GIMP action-history
+
+(history-item "tools-move" 1)
+(history-item "file-open" 0)
+(history-item "select-stroke" 0)
+(history-item "layers-merge-down" 2)
+(history-item "tools-paintbrush" 0)
+(history-item "tools-zoom" 0)
+(history-item "tools-rect-select" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

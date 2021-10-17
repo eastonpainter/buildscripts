@@ -16,6 +16,7 @@ git
 groff
 grub
 htop
+herbstluftwm
 iw
 jq
 linux
@@ -59,6 +60,7 @@ xdotool
 xf86-video-intel
 xf86-video-vesa
 xmonad-contrib
+xorg
 xorg-bdftopcf
 xorg-docs
 xorg-font-util

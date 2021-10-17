@@ -1,0 +1,6 @@
+2021/10/16-00:51:33.962 5 Reusing MANIFEST /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/MANIFEST-000001
+2021/10/16-00:51:33.964 5 Recovering log #865
+2021/10/16-00:51:34.038 5 Reusing old log /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/000865.log 
+2021/10/16-03:53:05.365 25 Level-0 table #869: started
+2021/10/16-03:53:05.447 25 Level-0 table #869: 20556 bytes OK
+2021/10/16-03:53:05.487 25 Delete type=0 #865

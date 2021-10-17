@@ -1,0 +1,2 @@
+exec herbstluftwm
+exec zsh

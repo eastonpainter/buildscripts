@@ -1,0 +1,18 @@
+2021/10/16-19:11:23.890 6 Reusing MANIFEST /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Session Storage/MANIFEST-000001
+2021/10/16-19:11:24.029 6 Recovering log #310
+2021/10/16-19:11:24.289 6 Reusing old log /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Session Storage/000310.log 
+2021/10/17-00:18:31.709 57 Level-0 table #313: started
+2021/10/17-00:18:31.786 57 Level-0 table #313: 18460 bytes OK
+2021/10/17-00:18:32.121 57 Delete type=0 #310
+2021/10/17-03:08:41.703 af Level-0 table #315: started
+2021/10/17-03:08:41.753 af Level-0 table #315: 23405 bytes OK
+2021/10/17-03:08:41.790 af Delete type=0 #312
+2021/10/17-03:08:41.791 af Compacting 4@0 + 1@1 files
+2021/10/17-03:08:41.932 af Generated table #316@0: 15041 keys, 348437 bytes
+2021/10/17-03:08:41.932 af Compacted 4@0 + 1@1 files => 348437 bytes
+2021/10/17-03:08:42.021 af compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-03:08:42.023 af Delete type=2 #315
+2021/10/17-03:08:42.023 af Delete type=2 #309
+2021/10/17-03:08:42.023 af Delete type=2 #307
+2021/10/17-03:08:42.023 af Delete type=2 #313
+2021/10/17-03:08:42.023 af Delete type=2 #304

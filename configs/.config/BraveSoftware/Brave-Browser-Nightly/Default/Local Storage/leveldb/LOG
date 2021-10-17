@@ -1,0 +1,87 @@
+2021/10/16-19:11:22.420 5 Reusing MANIFEST /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/MANIFEST-000001
+2021/10/16-19:11:22.641 5 Recovering log #868
+2021/10/16-19:11:22.665 5 Reusing old log /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/Local Storage/leveldb/000868.log 
+2021/10/16-22:22:03.782 22 Level-0 table #872: started
+2021/10/16-22:22:03.875 22 Level-0 table #872: 18786 bytes OK
+2021/10/16-22:22:03.910 22 Delete type=0 #868
+2021/10/16-22:53:55.744 22 Level-0 table #874: started
+2021/10/16-22:53:55.810 22 Level-0 table #874: 382806 bytes OK
+2021/10/16-22:53:55.850 22 Delete type=0 #871
+2021/10/17-00:14:24.522 57 Level-0 table #876: started
+2021/10/17-00:14:24.629 57 Level-0 table #876: 77612 bytes OK
+2021/10/17-00:14:24.667 57 Delete type=0 #873
+2021/10/17-00:14:24.668 57 Compacting 4@0 + 1@1 files
+2021/10/17-00:14:24.808 57 Generated table #877@0: 2097 keys, 584798 bytes
+2021/10/17-00:14:24.808 57 Compacted 4@0 + 1@1 files => 584798 bytes
+2021/10/17-00:14:24.843 57 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-00:14:24.846 57 Delete type=2 #872
+2021/10/17-00:14:24.846 57 Delete type=2 #874
+2021/10/17-00:14:24.846 57 Delete type=2 #866
+2021/10/17-00:14:24.846 57 Delete type=2 #869
+2021/10/17-00:14:24.846 57 Delete type=2 #876
+2021/10/17-02:18:04.816 8e Level-0 table #879: started
+2021/10/17-02:18:04.883 8e Level-0 table #879: 82459 bytes OK
+2021/10/17-02:18:04.923 8e Delete type=0 #875
+2021/10/17-02:20:42.268 90 Level-0 table #881: started
+2021/10/17-02:20:42.346 90 Level-0 table #881: 80967 bytes OK
+2021/10/17-02:20:42.419 90 Delete type=0 #878
+2021/10/17-03:12:18.288 af Level-0 table #883: started
+2021/10/17-03:12:18.369 af Level-0 table #883: 87654 bytes OK
+2021/10/17-03:12:18.416 af Delete type=0 #880
+2021/10/17-03:19:59.880 af Level-0 table #885: started
+2021/10/17-03:19:59.987 af Level-0 table #885: 144446 bytes OK
+2021/10/17-03:20:00.058 af Delete type=0 #882
+2021/10/17-03:20:00.059 af Compacting 4@0 + 1@1 files
+2021/10/17-03:20:00.233 af Generated table #886@0: 2156 keys, 806675 bytes
+2021/10/17-03:20:00.233 af Compacted 4@0 + 1@1 files => 806675 bytes
+2021/10/17-03:20:00.279 af compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-03:20:00.280 af Delete type=2 #877
+2021/10/17-03:20:00.280 af Delete type=2 #883
+2021/10/17-03:20:00.281 af Delete type=2 #885
+2021/10/17-03:20:00.281 af Delete type=2 #879
+2021/10/17-03:20:00.281 af Delete type=2 #881
+2021/10/17-03:28:54.722 bf Level-0 table #888: started
+2021/10/17-03:28:54.811 bf Level-0 table #888: 159984 bytes OK
+2021/10/17-03:28:54.901 bf Delete type=0 #884
+2021/10/17-03:29:02.547 af Level-0 table #890: started
+2021/10/17-03:29:02.660 af Level-0 table #890: 158845 bytes OK
+2021/10/17-03:29:02.705 af Delete type=0 #887
+2021/10/17-03:30:32.175 af Level-0 table #892: started
+2021/10/17-03:30:32.290 af Level-0 table #892: 158845 bytes OK
+2021/10/17-03:30:32.331 af Delete type=0 #889
+2021/10/17-03:55:56.436 d4 Level-0 table #894: started
+2021/10/17-03:55:56.511 d4 Level-0 table #894: 160855 bytes OK
+2021/10/17-03:55:56.556 d4 Delete type=0 #891
+2021/10/17-03:55:56.557 d4 Compacting 4@0 + 1@1 files
+2021/10/17-03:55:56.657 d4 Generated table #895@0: 2158 keys, 822217 bytes
+2021/10/17-03:55:56.657 d4 Compacted 4@0 + 1@1 files => 822217 bytes
+2021/10/17-03:55:56.710 d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-03:55:56.712 d4 Delete type=2 #892
+2021/10/17-03:55:56.712 d4 Delete type=2 #886
+2021/10/17-03:55:56.712 d4 Delete type=2 #890
+2021/10/17-03:55:56.712 d4 Delete type=2 #894
+2021/10/17-03:55:56.712 d4 Delete type=2 #888
+2021/10/17-04:00:17.734 d4 Level-0 table #897: started
+2021/10/17-04:00:17.805 d4 Level-0 table #897: 158845 bytes OK
+2021/10/17-04:00:17.846 d4 Delete type=0 #893
+2021/10/17-04:04:10.652 d4 Level-0 table #899: started
+2021/10/17-04:04:10.749 d4 Level-0 table #899: 158979 bytes OK
+2021/10/17-04:04:10.791 d4 Delete type=0 #896
+2021/10/17-04:07:39.252 dc Level-0 table #901: started
+2021/10/17-04:07:39.320 dc Level-0 table #901: 158845 bytes OK
+2021/10/17-04:07:39.366 dc Delete type=0 #898
+2021/10/17-04:08:07.376 dc Level-0 table #903: started
+2021/10/17-04:08:07.433 dc Level-0 table #903: 158845 bytes OK
+2021/10/17-04:08:07.490 dc Delete type=0 #900
+2021/10/17-04:08:07.490 dc Compacting 4@0 + 1@1 files
+2021/10/17-04:08:07.623 dc Generated table #904@0: 2160 keys, 822422 bytes
+2021/10/17-04:08:07.623 dc Compacted 4@0 + 1@1 files => 822422 bytes
+2021/10/17-04:08:07.666 dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/17-04:08:07.668 dc Delete type=2 #897
+2021/10/17-04:08:07.668 dc Delete type=2 #895
+2021/10/17-04:08:07.669 dc Delete type=2 #901
+2021/10/17-04:08:07.669 dc Delete type=2 #903
+2021/10/17-04:08:07.669 dc Delete type=2 #899
+2021/10/17-04:45:00.140 e3 Level-0 table #906: started
+2021/10/17-04:45:00.282 e3 Level-0 table #906: 381358 bytes OK
+2021/10/17-04:45:00.379 e3 Delete type=0 #902

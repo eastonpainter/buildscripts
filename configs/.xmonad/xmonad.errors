@@ -1,0 +1,22 @@
+
+xmonad.hs:101:54: warning: [-Wdeprecations]
+    In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
+    Deprecated: "Use spacingRaw instead."
+    |
+101 |     tiled = gaps [(U,15), (R,15), (D,15), (L,15) ] $ spacing 5 $ Tall nmaster delta ratio
+    |                                                      ^^^^^^^
+
+xmonad.hs:122:1: warning: [-Wtabs]
+    Tab character found here, and in two further locations.
+    Please use spaces instead.
+    |
+122 |         --spawnOn "2" "/usr/local/bin/st"
+    | ^^^^^^^^
+
+xmonad.hs:130:12: warning: [-Wdeprecations]
+    In the use of ‘defaultConfig’
+    (imported from XMonad, but defined in XMonad.Config):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad and XMonad.Config) instead."
+    |
+130 | defaults = defaultConfig {
+    |            ^^^^^^^^^^^^^

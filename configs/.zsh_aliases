@@ -1,0 +1,189 @@
+#     _    _     ___    _    ____  _____ ____
+#    / \  | |   |_ _|  / \  / ___|| ____/ ___|
+#   / _ \ | |    | |  / _ \ \___ \|  _| \___ \
+#  / ___ \| |___ | | / ___ \ ___) | |___ ___) |
+# /_/   \_|_____|___/_/   \_|____/|_____|____/
+
+## Program shortcuts ##
+alias vi="vim"
+alias zt='zathura'
+alias img='sxiv' 
+alias yt="youtube-dl -o '%(title)s.%(ext)s'"
+alias yta='youtube-dl --ignore-errors --output "%(title)s.%(ext)s" --extract-audio --audio-format "m4a"'
+alias sr="ffscreencast -emp4"
+alias spr="pkill ffmpeg"
+alias ck='tty-clock -c -C 4'
+alias ls="ls -F"
+alias la="ls -a"
+alias p="cd $_"
+alias ll="ls -lhas"
+alias l="ls"
+alias l1="ls -1"
+alias md="mkdir -p"
+alias g="grep"
+alias c="coinmon"
+alias gcs="colorscript -e ghosts"
+alias hdu="df -h /dev/sda3"
+alias btmb="btm -b"
+alias lb="/home/easton/.scripts/lemon.sh | lemonbar -p"
+alias elb="vi /home/easton/.scripts/lemon.sh"
+
+# Fetches
+alias nf='neofetch'
+alias pf='pfetch'
+
+
+## Pacman ##
+alias pac="doas pacman"
+alias pacs="doas pacman -S"
+alias pacss="doas pacman -Ss"
+alias pacrns="doas pacman -Rns"
+alias pacq="doas pacman -Q"
+alias pacqe="doas pacman -Qe"
+alias pacqi="doas pacman -Qi"
+alias pacsyu="doas pacman -Syu"  
+alias aur="pikaur"
+
+## Herbstluftwm ##
+alias h="herbstclient"
+alias hr="herbstclient reload"
+alias eh="vim ~/.config/herbstluftwm/autostart"
+
+## cd ##
+alias ..="cd .."
+alias ...="cd ../../"
+alias ....="cd ../../../"
+alias .....="cd ../../../../"
+alias ......="cd ../../../../../"
+alias .......="cd ../../../../../../"
+cl() { cd "$@" && ls; }
+
+## Piping ##
+alias -g G="| grep"
+alias -g L="| less"
+alias -g LC="| wc -l"
+alias -g C=" | xclip"
+
+## On/off ##
+alias off='echo "Goodnight! :D . . . " && sleep 2 && shutdown now -P'
+alias up='uptime -p'
+alias slp='systemctl suspend'
+alias rbt='doas systemctl reboot'
+
+## Display settings ##
+alias lvdsoff='xrandr --auto && xrandr --output LVDS-1-1 --off'
+alias lvdson='xrandr --auto && xrandr --output LVDS-1-1 --on'
+alias hdmioff='xrandr --auto && xrandr --output HMDI-0 --off'
+alias hdmion='xrandr --auto && xrandr --output HMDI-1 --on'
+
+alias vgaon='xrandr --output VGA-1 --auto'
+alias vgaoff='xrandr --output VGA-1 --auto'
+alias dpon='xrandr --output VGA-1 --auto'
+alias dpoff='xrandr --output VGA-1 --auto'
+
+## Calendar ##
+alias gcal="gcalcli"
+alias gcala="gcalcli agenda"
+alias gcalw="gcalcli calw"
+alias gcalm="gcalcli calm"
+
+## VPN ##
+# Mullvad
+alias mullag='mullvad account get'
+alias mullrl='mullvad relay list'
+alias mullneth='mullvad relay set location nl ams nl4-wireguard'
+alias mulldall='mullvad relay set location us dal us150-wireguard'
+alias mulljapa='mullvad relay set location jp tyo jp9-wireguard'
+alias mullc='mullvad connect'
+alias mulld='mullvad disconnect'
+alias mullru='mullvad relay update'
+alias mulls='mullvad status'
+alias mullacon='mullvad auto-connect set on'
+alias mullacoff='mullvad auto-connect set off'
+# ProtonVPN
+alias vpnup='doas protonvpn c'
+alias vpnupf='doas protonvpn c -f'
+alias vpndown='doas protonvpn d'
+alias vpns='doas protonvpn s'
+
+## Git ##
+alias gcl="git clone"
+alias gct="git commit"
+alias ga="git add ."
+alias gcm="git commit -m"
+alias gcam="git add -A && git commit -m"
+alias ginit="git init"
+alias gst="git status"
+alias gck="git checkout"
+alias gl="git pull"
+alias gp="git push"
+
+## Network ##
+alias sshup='doas systemctl start ssh'
+alias sshdown='doas systemctl stop ssh'
+alias sshs='doas systemctl status ssh'
+
+alias macck='doas echo ENP MAC: && doas macchanger -s enp10s0 && echo WLP MAC: && doas macchanger -s wlp3s0'
+alias maccke='doas macchanger -s enp0s25'
+alias macwlp='doas macchanger -r wlp3s0'
+alias macenp='doas macchanger -r enp0s25'
+alias ogmacwlp='doas macchanger -p wlp3s0'
+alias ogmacenp='doas macchanger -p enp0s25'
+alias past_macs='cat ~/notes/info/past_macs.txt'
+alias set_router='doas macchanger --mac="88:9e:68:ae:4b:ce" enp10s0'
+alias intdown='doas ip link set enp0s25 down'
+alias intup='doas ip link set enp0s25 up'
+alias png='ping -c 3 archlinux.org'
+alias pg='ping -c 3 fsf.org'
+
+alias wifils="nmcli device wifi list"
+alias wific="nmcli device wifi connect painter password love@home"
+alias wifid="nmcli device disconnect ifname wls1"
+alias wifion="nmcli radio wifi on"
+alias wifioff="nmcli radio wifi off"
+
+## Cargo ## 
+alias cr='cargo run'
+alias cb='cargo build'
+alias cct='cargo check'
+
+## Config edits ##
+alias exmonad='vim /home/easton/.xmonad/xmonad.hs'
+alias exmo='vim /home/easton/.xmonad/xmonad.hs'
+alias exmobar='vim /home/easton/.xmobarrc'
+alias ezsh='vim /home/easton/.zshrc'
+alias szsh='source /home/easton/.zshrc'
+alias ealias='vim /home/easton/.zsh_aliases'
+alias salias='source /home/easton/.zsh_aliases'
+alias evim='vim /home/easton/.vimrc'
+alias ex="vi ~/.Xresources"
+
+## Directory GOTOs ##
+alias gts='cd /home/easton/.scripts'
+alias gtw='cd /home/easton/pics/wallpapers'
+alias gtss='cd /home/easton/pics/screenshots'
+alias lsss='sxiv /home/easton/pics/screenshots'
+alias gtxmonad='cd /home/easton/.xmonad' 
+alias gtcs='cd /home/easton/notes/school/compsci'
+alias gtffcss="cd /home/easton/.mozilla/firefox/t8uzjon2.default-release/chrome"
+alias gtfont="cd /usr/local/share/fonts"
+
+## Miscellaneous ##
+alias hist='cat ~/.zsh_history'
+alias todo='cat ~/notes/TODO'
+alias path="echo $PATH"
+alias co='setxkbmap us -variant colemak'
+alias us='setxkbmap us'
+alias sysage="doas tune2fs -l /dev/sda1 | awk 'NR==30'"
+alias swall="xwallpaper --zoom .config/wall.png"
+alias stl="xrdb .Xresources"
+alias mm="mv ~/*m4a ~/music"
+alias lw="curl -s wttr.in | head -37 | tail -36"
+alias pdftopng="pdftoppm"
+
+alias gohsm="zathura ~/notes/school/map/gohs-map.pdf"
+alias gohscm="sxiv ~/notes/school/map/gohs-classes.png"
+alias gohsc="zathura ~/notes/school/gohs-calendar.pdf"
+
+alias perc="acpi | awk '{print $4}' | cut -b 1-3"
+alias mc="find ~/music -type f | wc -l"

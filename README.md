@@ -1,2 +1,2 @@
-# Arch Build Script
-Automatically builds my configuration of Arch Linux.
+# Artix Build Script
+Automatically builds my configuration of Artix Linux.

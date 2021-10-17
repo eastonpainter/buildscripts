@@ -1,0 +1,6 @@
+2021/10/17-03:12:23.910 7d79 Creating DB /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2021/10/17-03:12:24.025 7d79 Reusing MANIFEST /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/17-03:13:18.494 7d79 Level-0 table #5: started
+2021/10/17-03:13:18.549 7d79 Level-0 table #5: 1847 bytes OK
+2021/10/17-03:13:18.591 7d79 Delete type=0 #3
+2021/10/17-03:13:18.592 7d79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

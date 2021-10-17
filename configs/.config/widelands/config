@@ -1,0 +1,14 @@
+# Automatically created by Widelands 1.0 (Release)
+
+[global]
+ai_training="false"
+auto_speed="false"
+maximized="false"
+xres="950"
+yres="741"
+
+[sound]
+
+[keyboard_sym]
+
+[keyboard_mod]

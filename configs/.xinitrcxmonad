@@ -1,0 +1,4 @@
+exec xmonad
+xrdb -load $HOME/.Xresources
+exec zsh
+exec setxkbmap us -variant colemak

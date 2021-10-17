@@ -1,0 +1,6 @@
+2021/08/05-01:41:02.740 6117 Creating DB /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_en.akinator.com_0.indexeddb.leveldb since it was missing.
+2021/08/05-01:41:02.863 6117 Reusing MANIFEST /home/easton/.config/BraveSoftware/Brave-Browser-Nightly/Default/IndexedDB/https_en.akinator.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/05-01:42:24.938 611e Level-0 table #5: started
+2021/08/05-01:42:25.006 611e Level-0 table #5: 381 bytes OK
+2021/08/05-01:42:25.046 611e Delete type=0 #3
+2021/08/05-01:42:25.046 611e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
